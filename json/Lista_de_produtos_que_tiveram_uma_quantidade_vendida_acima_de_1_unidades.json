@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "Laranja",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Amendoim",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Refrigerante",
+        "total_vendas": 2
+    },
+    {
+        "_id": "Ma\u00e7a",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Banana",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Tomate",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Bolacha",
+        "total_vendas": 2
+    },
+    {
+        "_id": "Feijao",
+        "total_vendas": 2
+    },
+    {
+        "_id": "Cerveja",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Carne",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Mussarela",
+        "total_vendas": 4
+    },
+    {
+        "_id": "Mortadela",
+        "total_vendas": 4
+    },
+    {
+        "_id": "Leite",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Detergente",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Arroz",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Sabonete",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Sabao em po",
+        "total_vendas": 1
+    },
+    {
+        "_id": "Macarrao",
+        "total_vendas": 2
+    }
+]
